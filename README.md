@@ -1,6 +1,6 @@
 # 243-4J5 — LoRa et LLM (semaines 9 à 12)
 
-Code de départ du cours 243-4J5-LI – Objets connectés, Cégep Limoilou.
+Code de départ du cours 243-4J5-LI – Objets connectés, Cégep Limoilou. Le matériel du cours est sur le [site du cours](https://4j5.ve2fpd.com/).
 
 | Dossier | Utilisation |
 |---------|-------------|
